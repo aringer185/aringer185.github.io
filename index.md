@@ -21,7 +21,11 @@
 
 [⛰️ Exploratory Analysis: Identifying Ideal Backpacking Trails in Pennsylvania](/pdf/GIS_Maps.pdf)
 
+---
 
+### Geospatial Analysis 
+
+[🏡 Optimizing Zestimate®: Leveraging Local Intelligence to Predict Housing Prices in Philadelphia, PA](/LFrances_ARinger_Midterm.html)
 
 
 
