@@ -8,15 +8,16 @@
 
 ### Transportation
 
-[🚲Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
+[🚲 Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
 
+[🛴 Equity & Shared E-Micromobility Analysis in Chicago, Illinois](/pdf/Bogota-Bike-Bus-small.pdf)
 
 
 ---
 
 ### Environment
 
-[🚲Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
+[⚡️ Policy Memo: Regional Offshore Wind Transmission Recommendations for PJM](/pdf/Transmission_Memo.pdf)
 
 
 ---
