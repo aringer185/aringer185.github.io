@@ -19,8 +19,7 @@
 
 [⚡️ Policy Memo: Regional Offshore Wind Transmission Recommendations for PJM](/pdf/Transmission_Memo.pdf)
 
-
----
+[⛰️ Exploratory Analysis: Identifying Ideal Backpacking Trails in Pennsylvania](/pdf/GIS_Maps.pdf)
 
 
 
