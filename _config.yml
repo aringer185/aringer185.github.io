@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Alexa Ringer # your name (or website title) here
 logo: "/images/alexa.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  University of Pennsylvania Masters of City Planning Candidate 
   <br><br>
-  Second description 
+  Environmental & Transportation Planner, Geospatial Data Analyst, Cyclist
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alexaringer/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
