@@ -8,7 +8,7 @@
 
 ### Transportation
 
-[Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
+[🚲Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
