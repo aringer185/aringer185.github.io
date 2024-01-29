@@ -6,10 +6,9 @@
 
 ---
 
-### Category Name 1 
+### Transportation
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -21,7 +20,7 @@
 
 ---
 
-### Category Name 2
+### Environment
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
