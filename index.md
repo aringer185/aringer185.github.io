@@ -3,19 +3,7 @@
 
 ---
 
-## Portfolio
-
----
-
-### Sustainable Transportation
-
-[🚲 Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
-
-
-[🛴 Equity & Shared E-Micromobility Analysis in Chicago, Illinois](/pdf/PxN_Micromobility.pdf)
-
-
----
+## Sample Work
 
 ### Environmental Planning
 
@@ -28,6 +16,15 @@
 ### Geospatial Modeling & Analysis
 
 [🏡 Optimizing Zestimate®: Leveraging Local Intelligence to Predict Housing Prices in Philadelphia, PA](/LFrances_ARinger_Midterm.html)
+
+---
+
+### Sustainable Transportation
+
+[🚲 Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
+
+
+[🛴 Equity & Shared E-Micromobility Analysis in Chicago, Illinois](/pdf/PxN_Micromobility.pdf)
 
 
 
