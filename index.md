@@ -1,4 +1,4 @@
-## Resume
+## Experience
 [Resume](/pdf/Ringer-Alexa-Resume-2024.pdf)
 
 ---
