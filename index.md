@@ -20,7 +20,7 @@
 
 [🛴 Equity & Shared E-Micromobility Analysis in Chicago, Illinois](/pdf/PxN_Micromobility.pdf)
 
-[🔌 Equitable Public EV Charging Lots Suitability in Philadelphia, PA](/pdf/Ringer_Alexa_Assignment1.pdf)
+[🔌 Equitable Public EV Charging Lots Suitability in Philadelphia, PA](/pdf/Ringer-Alexa-Assignment1.pdf)
 
 ---
 
