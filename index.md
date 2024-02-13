@@ -7,7 +7,7 @@
 
 ### Environmental Planning
 
-[⚡ Policy Memo: Regional Offshore Wind Transmission Recommendations for PJM](/pdf/Transmission_Memo.pdf)
+[⚡ Policy Memo: Regional Offshore Wind Transmission Recommendations for PJM](/pdf/Energy_Transmission2.pdf)
 
 [⛰️ Exploratory Spatial Analysis: Identifying Ideal Backpacking Trails in Pennsylvania](/pdf/GIS_Maps2.pdf)
 
