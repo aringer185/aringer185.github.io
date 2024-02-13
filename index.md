@@ -26,7 +26,10 @@
 
 ### Geospatial Modeling & Analysis
 
-[🏡 Optimizing Zestimate®: Leveraging Local Intelligence to Predict Housing Prices in Philadelphia, PA](/LFrances_ARinger_Midterm.html)
+[🌆 Optimizing Zestimate®: Leveraging Local Intelligence to Predict Housing Prices in Philadelphia, PA](/LFrances_ARinger_Midterm.html)
+
+[🏡 Targeting Community Land Trust Interventions to Fight Displacement in Philadelphia, PA](/Final_Proj.html)
+
 
 
 ---
