@@ -18,6 +18,8 @@
 
 [🚲 Integrating Bicycle Infrastructure with Bus Rapid Transit in Bogotá, Colombia](/pdf/Bogota-Bike-Bus-small.pdf)
 
+[Read the full Bogotá studio plan](https://www.design.upenn.edu/work/urban-expansion-equity-bogota-examining-housing-transportation-disparities) or [read some excerpts in Penn's 2024 Panorama magazine](https://www.pennpanorama.com/)
+
 [🛴 Equity & Shared E-Micromobility Analysis in Chicago, Illinois](/pdf/PxN_Micromobility.pdf)
 
 [🔌 Equitable Public EV Charging Lots Suitability in Philadelphia, PA](/pdf/Ringer-Alexa-Assignment1.pdf)
