@@ -24,13 +24,15 @@
 
 [🔌 Equitable Public EV Charging Lots Suitability in Philadelphia, PA](/pdf/Ringer-Alexa-Assignment1.pdf)
 
+[🚸 Sustainable & Equitable Student Transportation in Philadelphia, PA](/pdf/Ringer-Alexa-Seminar-Final.pdf)
+
 ---
 
 ### Geospatial Modeling & Analysis
 
 [🌆 Optimizing Zestimate®: Leveraging Local Intelligence to Predict Housing Prices in Philadelphia, PA](/LFrances_ARinger_Midterm.html)
 
-[🏡 Targeting Community Land Trust Interventions to Fight Displacement in Philadelphia, PA](/Final_Proj.html)
+
 
 
 
